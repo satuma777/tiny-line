@@ -1,0 +1,2 @@
+module ChatRoom1vs1Helper
+end
